@@ -4,7 +4,7 @@
 
 <p align="justify">
   <img src = "./img/md/md1.png"><br>
-  카카오톡 회사소개 사이트트 입니다.<br>
+  카카오톡 회사소개 사이트 입니다.<br>
   <br>
   <img src = "./img/md/md2.png"><br>
   소개 세부 사항<br>
